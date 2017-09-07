@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b8ae04a-c621-4d77-954f-012571c72658" name="Default" comment="本地浏览">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="wuxiangwa.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -176,7 +174,7 @@
       <updated>1493777476091</updated>
       <workItem from="1493777477725" duration="1458000" />
       <workItem from="1504694305789" duration="2083000" />
-      <workItem from="1504755082257" duration="1383000" />
+      <workItem from="1504755082257" duration="1457000" />
     </task>
     <task id="LOCAL-00001" summary="学习资料">
       <created>1504694430754</created>
@@ -199,11 +197,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504756216045</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="本地浏览">
+      <created>1504756518600</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1504756518600</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4924000" />
+    <option name="totallyTimeSpent" value="4998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="766" extended-state="6" />
@@ -465,10 +470,10 @@
         <state relative-caret-position="190">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1504756511000" expanded="true" signature="31:690" ph="..." />
-            <marker date="1504756511000" expanded="true" signature="38:191" ph="..." />
-            <marker date="1504756511000" expanded="true" signature="658:682" ph="..." />
-            <marker date="1504756511000" expanded="true" signature="253:280" ph="..." />
+            <marker date="1504756583000" expanded="true" signature="31:690" ph="..." />
+            <marker date="1504756583000" expanded="true" signature="38:191" ph="..." />
+            <marker date="1504756583000" expanded="true" signature="658:682" ph="..." />
+            <marker date="1504756583000" expanded="true" signature="253:280" ph="..." />
           </folding>
         </state>
       </provider>
