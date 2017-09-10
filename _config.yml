@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: '吴相忘 Blog'
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
+email: joker_wzg@outlook.com
+copyright_name: 天下风云出我辈
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+twitter_username:
+github_username:  wuxiangwa
+#facebook_username:  StartBootstrap
+#email_username:  your-email@yourdomain.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
